@@ -1,7 +1,7 @@
 
 # Fashion Frost
 
-Welcome to Fashion Frost! This Java application is a clothing store where users can register, log in, add clothes to their baskets, and place orders. Admins have additional privileges to manage brands and clothing items directly from the Admin Panel. The user interface is built using Swing.
+Welcome to Fashion Frost! This Java application is a clothing store where users can register, log in, add clothes to their baskets, and place orders. Admins have additional privileges to manage brands and clothing items directly from the Admin Panel. The user interface is built using Swing. This assignment constitutes my final project for the Object Oriented Programming course during my second year of college.
 
 
 ## Features
